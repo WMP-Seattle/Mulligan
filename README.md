@@ -12,7 +12,12 @@ Oh, and all their child objects too. You know, the contacts, opportunities...
 
 People are scrambling. The perp is hiding, his chatter status says "crying". 
 
-But it's ok, You've got Mulligan; Your Save-the-day Bulk un-delete tool. Instead of checking next to 10
-records one by one, simply select your object type from a picklist and optionally choose a start and stop date 
-range to restore. Then just sit back and calmly demand that someone make a Fivebucks run. 
+But it's ok, you've got Mulligan; your Save-the-day bulk un-delete tool. Instead of checking that maddening
+box next to 10 thousand records one by one, simply select your object type from a picklist; optionally 
+choose a start and stop date range, then click 'Call a Mulligan'. 
+
+Then just sit back and calmly demand that someone make a Fivebucks run. 
 You've worked smarter, not harder, and you'd like a Quad no-fat carmel crunch mocha with extra crunch. 
+
+It's not often you undelete things, but when you do, you mulligan them. After all, you're the most interesting 
+Salesforce admin in the world.
