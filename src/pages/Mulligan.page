@@ -1,0 +1,47 @@
+<apex:page controller="mulliganController">
+	<apex:form >
+		<apex:pageBlock title="Mulligan - 'it' never happened">
+			<apex:pageBlockSection columns="1" collapsible="false" title="Uh-oh, What object ended up in the water hazard?" id="selection">
+				<apex:SelectList value="{!val}" size="1" onchange="afSelectObj(this.options[this.selectedIndex])">
+					<apex:outputLabel value="What kind of Object would you like to mass undelete: " for="objSelect"/>
+					<apex:selectOptions id="objSelect" value="{!Name}"></apex:selectOptions>
+				</apex:SelectList>
+			</apex:pageBlockSection>
+			<apex:outputPanel id="mulliganBlock" layout="block">
+				<apex:PageBlockSection collapsible="false" id="objectParams" title="{!mulliganBlock}" rendered="{!mulliganShouldRender}">
+				Only un-delete records whose last modify date is after: 
+				<apex:inputField value="{!constraint.After__c}" id="after" 
+					onChange="reRenderMulliganBlock()"
+				/>
+				Only un-delete records whose last modify date is before: 
+				<apex:inputField value="{!constraint.Before__c}" id="before" 
+					onChange="reRenderMulliganBlock()"
+				/>
+				</apex:PageBlockSection>
+			</apex:outputPanel>
+
+			<apex:outputText id="error" value="{!error}" style="font-weight: bold; color: red"/>
+ 			<br/><br/>
+			<c:mulliganBatchJobDisplay id="jobs" numJobs="20"/>
+
+			<apex:pageBlockButtons location="bottom">
+				<apex:commandButton action="{!callAMulligan}" value="Call a Mulligan" reRender="jobs,error"/>
+			</apex:pageBlockButtons>
+		</apex:pageBlock>
+
+		<apex:actionFunction action="{!nothing}" name="afSelectObj" rerender="mulliganBlock">
+			<apex:param name="firstParam" assignTo="{!selectedObject}" value="" />
+		</apex:actionFunction>
+
+		<apex:actionFunction action="{!nothing}" name="reRenderMulliganBlock" rerender="mulliganBlock">
+		</apex:actionFunction>
+		
+
+	</apex:form>
+	<script type="text/javascript">
+	function wrapper() {
+		afShowPreview();
+		return false;
+	}
+	</script>
+</apex:page>
