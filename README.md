@@ -1,4 +1,4 @@
-Mulligan - Sometimes you just need to call a Mulligan. 
+Sometimes you just need to call a Mulligan. 
 ========
 
 Ever had one of those days? It's probably a Friday. You've definitely not had enough coffee. Traffic stunk.
