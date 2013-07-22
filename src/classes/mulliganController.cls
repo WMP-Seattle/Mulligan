@@ -7,6 +7,7 @@ Public with sharing class mulliganController {
 	 *	constraint						- end constraint for date-boxing on undeletion of records 
 	 *	mulliganBlock					- Title of the pageBlockSection for actually undeleteing things
 	 *	mulliganShouldRender	- Should the mulligan block render?
+	 *	displayBatchJobs			- Should the batch jobs display?
 	 *	q 										- Query string
 	 */
 	
@@ -69,10 +70,7 @@ Public with sharing class mulliganController {
 	 *	nothing()
 	 *	Method exists for action-function ajax call, and is intentionally null/blank
 	 */
-	Public Void nothing(){
-		system.debug(constraint);
-		system.debug(val);
-	}
+	Public Void nothing(){}
 
 	/*
 	 *	getDeletedCount()
@@ -81,18 +79,14 @@ Public with sharing class mulliganController {
 	 */
 	public Integer getDeletedCount(){
 		if(val == null) { return 0; }
-		system.debug(val);
 		q = 'SELECT Id FROM ' + val + ' WHERE isDeleted = true';
 		if(constraint.after__c != null) {
-			system.debug(constraint.after__c);
 			q += ' AND LastModifiedDate >= ' + constraint.after__c.format('yyyy-MM-dd\'T\'HH:mm:ss\'Z\'');
 		}
 		if(constraint.before__c != null) { 
-			system.debug(constraint.before__c);
 			q += ' AND LastModifiedDate <= ' + constraint.before__c.format('yyyy-MM-dd\'T\'HH:mm:ss\'Z\'');
 		}
 		q += ' ALL ROWS';
-		system.debug(q);
 		list<sObject> records = Database.query(q);
 		return records.size();
 	}
@@ -100,16 +94,14 @@ Public with sharing class mulliganController {
 	/*
 	 *	callAMulligan()
 	 *	Inputs: (direct) none. (inderect) val, before, after
-	 * 	Output: UnDeleted sObjects
+	 * 	Output: void (started batch job)
 	 */
 	public void callAMulligan(){
-		system.debug(q);
 		MulliganBatchRestore batchJob = new MulliganBatchRestore(q);
 		List<AsyncApexJob> openJobs = [select Id from AsyncApexJob where Status = 'Processing' OR Status = 'Queued']; 
  
 		if(openJobs.size() < 5){
 			ID batchprocessid = Database.executeBatch(batchJob);
-			system.debug('################ Batch Process ID ' + batchprocessid );
 		} else {
 			error = 'Mulligan has found 5 batch jobs already enqueued or being processed. Please wait for one or more to finish and try again.';
 		}

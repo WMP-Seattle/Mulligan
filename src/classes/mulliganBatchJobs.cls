@@ -1,4 +1,11 @@
 public with sharing class mulliganBatchJobs {
+	/*
+	 * This class, and the coresponding component thoughtfully
+	 * lifted and derived from http://www.tehnrd.com/batch-apex-status-bar/
+	 * who graciously taught us all how to do progress bars
+	 * for batch apex jobs. 
+	 * #standingOnTheShouldersOfGiants.
+	 */
 	public List<BatchJob> batchJobs;
 	public Integer numberOfJobs {get; set;}
 
@@ -14,6 +21,7 @@ public with sharing class mulliganBatchJobs {
 														JobType, JobItemsProcessed, Id, CreatedDate, CreatedById, 
 														CompletedDate, ApexClassId, ApexClass.Name
 													FROM AsyncApexJob 
+													WHERE ApexClass.Name = 'mulliganBatchRestore'
 													ORDER BY CreatedDate 
 													DESC LIMIT :numberOfJobs]){
 			Double itemsProcessed = a.JobItemsProcessed;
@@ -24,10 +32,10 @@ public with sharing class mulliganBatchJobs {
 
 			//Determine the pecent complete based on the number of batches complete
 			if(totalItems == 0){
-					//A little check here as we don't want to divide by 0.
-					j.percentComplete = 0;
+				//A little check here as we don't want to divide by 0.
+				j.percentComplete = 0;
 			} else {
-					j.percentComplete = ((itemsProcessed  / totalItems) * 100.0).intValue();
+				j.percentComplete = ((itemsProcessed  / totalItems) * 100.0).intValue();
 			}
 
 			batchJobs.add(j);
@@ -42,9 +50,4 @@ public with sharing class mulliganBatchJobs {
 		public Integer percentComplete {get; set;}
 	}
 
-	/*--------------------TEST METHOD------------------------*/
-	static testMethod void batchStatusBarTest(){
-		mulliganBatchJobs controller = new mulliganBatchJobs();
-		controller.getBatchJobs();
-	}
 }
