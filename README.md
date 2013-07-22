@@ -19,8 +19,15 @@ choose a start and stop date range, then click 'Call a Mulligan'.
 Then just sit back and calmly demand that someone make a Fivebucks run. 
 You've worked smarter, not harder, and you desserve a Quad shot no-fat caramel crunch mocha with extra crunch.
 
-It's not often you undelete things, but when you do, you mulligan them. After all, you're the most interesting 
+It's not often you undelete things, but when you do, you mulligan them. After all, you are the most interesting 
 Salesforce admin in the world.
+
+Limitations, Caveats and other things.
+========
+
+1. So, yeah. Mulligan can only undelete objects that are in the recycle bin. If you have emptied the recycle bin, or exceeded the retention limit... your only option is to rick-roll your entire org and weep.
+2. There is no warranty, expressed or otherwise associated with this software.
+3. If you have an enhancement, or bug fix, feel free to send a pull request. Please include coresponding tests.
 
 Installation Instructions.
 ========
