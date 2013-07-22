@@ -17,7 +17,15 @@ box next to 10 thousand records one by one, simply select your object type from 
 choose a start and stop date range, then click 'Call a Mulligan'. 
 
 Then just sit back and calmly demand that someone make a Fivebucks run. 
-You've worked smarter, not harder, and you'd like a Quad no-fat carmel crunch mocha with extra crunch. 
+You've worked smarter, not harder, and you desserve a Quad shot no-fat caramel crunch mocha with extra crunch.
 
 It's not often you undelete things, but when you do, you mulligan them. After all, you're the most interesting 
 Salesforce admin in the world.
+
+Installation Instructions.
+========
+
+V 1.0 - Codename Caramel Mocha Crunch - Deprecated; not installable.
+V 1.1 - Codename Quad Shot Caramel - Unmanaged Package: https://login.salesforce.com/packaging/installPackage.apexp?p0=04ti0000000NbdX
+
+Ignoti Et Quasi Oculti Declavarius. 
