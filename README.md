@@ -26,6 +26,7 @@ Installation Instructions.
 ========
 
 V 1.0 - Codename Caramel Mocha Crunch - Deprecated; not installable.
+
 V 1.1 - Codename Quad Shot Caramel - Unmanaged Package: https://login.salesforce.com/packaging/installPackage.apexp?p0=04ti0000000NbdX
 
 Ignoti Et Quasi Oculti Declavarius. 
