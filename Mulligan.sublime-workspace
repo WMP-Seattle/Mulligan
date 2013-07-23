@@ -1,1 +1,1893 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"batch",
+				"batchprocessid"
+			],
+			[
+				"Mulligan",
+				"Mulligan_Controls__c"
+			],
+			[
+				"mulligan",
+				"mulliganBlock"
+			],
+			[
+				"SObject",
+				"sObjectType"
+			],
+			[
+				"add",
+				"additional_hidden"
+			],
+			[
+				"sched",
+				"scheduleDate"
+			],
+			[
+				"schedu",
+				"ScheduleDate"
+			],
+			[
+				"Start",
+				"Start_Date__c"
+			],
+			[
+				"library",
+				"libraryItem"
+			],
+			[
+				"Pro",
+				"Product_Cost__c"
+			],
+			[
+				"updat",
+				"updatedCC"
+			],
+			[
+				"Com",
+				"Component_Container__c"
+			],
+			[
+				"Compon",
+				"Component__c"
+			],
+			[
+				"Compo",
+				"Component_Container__c"
+			],
+			[
+				"Como",
+				"Component_Container__c"
+			],
+			[
+				"Defau",
+				"Default_Start_Date__c"
+			],
+			[
+				"fr",
+				"Friendly_Name__c"
+			],
+			[
+				"Def",
+				"DefaultEndDate"
+			],
+			[
+				"lineIte",
+				"lineItemCount"
+			],
+			[
+				"Defa",
+				"Default_End_Date__c"
+			],
+			[
+				"End",
+				"End_date__c"
+			],
+			[
+				"St",
+				"Start_Date__c"
+			],
+			[
+				"en",
+				"End_date__c"
+			],
+			[
+				"newline",
+				"newLineItemFields"
+			],
+			[
+				"line",
+				"lineItemCount"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"Group",
+				"Group__c"
+			],
+			[
+				"LineI",
+				"Line_Item__c"
+			],
+			[
+				"Li",
+				"Library_Item__c"
+			],
+			[
+				"Comp",
+				"Component_Container__c"
+			],
+			[
+				"Contain",
+				"ContainerIds"
+			],
+			[
+				"size",
+				"size()"
+			],
+			[
+				"Lib",
+				"LibraryIds"
+			],
+			[
+				"contain",
+				"containerResults"
+			],
+			[
+				"lib",
+				"libraryResults"
+			],
+			[
+				"Library",
+				"Library_Item__c"
+			],
+			[
+				"Libr",
+				"Library_Item__c"
+			],
+			[
+				"comp",
+				"componentList"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"Line",
+				"Line_Item__c"
+			],
+			[
+				"perc",
+				"percentInTarget"
+			],
+			[
+				"in",
+				"inTargetCpm"
+			],
+			[
+				"total",
+				"totalComp"
+			],
+			[
+				"sub",
+				"Subtotal__c"
+			],
+			[
+				"net",
+				"netMarginPercent"
+			],
+			[
+				"compon",
+				"componentId"
+			],
+			[
+				"lineIt",
+				"lineItem"
+			],
+			[
+				"Compan",
+				"Companions"
+			],
+			[
+				"data",
+				"dataFees"
+			],
+			[
+				"media",
+				"mediaCost"
+			],
+			[
+				"cpi",
+				"cpiTriTimesMedia"
+			],
+			[
+				"tri",
+				"triTimesMediaDataCost"
+			],
+			[
+				"waste",
+				"wasteCompCpm"
+			],
+			[
+				"Impre",
+				"Impressions__c"
+			],
+			[
+				"inTar",
+				"inTargetGuarantee"
+			],
+			[
+				"Im",
+				"Impressions__c"
+			],
+			[
+				"Impression",
+				"Available_Impressions__c"
+			],
+			[
+				"ex",
+				"exceptionThrown"
+			],
+			[
+				"stat",
+				"Status__c"
+			],
+			[
+				"Con",
+				"Console_Account_Type__c"
+			],
+			[
+				"get",
+				"getUrl"
+			],
+			[
+				"test",
+				"testAcc"
+			],
+			[
+				"RE",
+				"Requested_Account_Status__c"
+			],
+			[
+				"AP",
+				"ApiPushException"
+			],
+			[
+				"Re",
+				"Requested_Account_Status__c"
+			],
+			[
+				"requ",
+				"requestedStatus"
+			],
+			[
+				"appl",
+				"appliedName"
+			],
+			[
+				"new",
+				"newLineItemFields"
+			],
+			[
+				"schedules",
+				"schedulesByMap"
+			],
+			[
+				"Oppo",
+				"OpportunityLineItemSchedule"
+			],
+			[
+				"create",
+				"createdGroups"
+			],
+			[
+				"OpportunityLine",
+				"OpportunityLineItem"
+			],
+			[
+				"record",
+				"recordtypeid"
+			],
+			[
+				"set",
+				"setOppLineItemsByOppId"
+			],
+			[
+				"OppProdu",
+				"OppProductConversionUtils"
+			],
+			[
+				"HAS",
+				"HasRevenueSchedule"
+			],
+			[
+				"oppTot",
+				"oppTotalPredictedSpend"
+			],
+			[
+				"RestClient",
+				"RestClientHTTPMocks"
+			],
+			[
+				"Pla",
+				"Platform_Line_Item__r"
+			],
+			[
+				"mont",
+				"monthlyPercentage"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"NumOf",
+				"numOfMonths"
+			],
+			[
+				"mon",
+				"monthSpan"
+			],
+			[
+				"platfor",
+				"Platform_Line_Item__c"
+			],
+			[
+				"pla",
+				"PlatformLineItem__c"
+			],
+			[
+				"Plat",
+				"Platform_Line_Item_Data__c"
+			],
+			[
+				"Pl",
+				"Platform_Line_Item_Data__c"
+			],
+			[
+				"Platform",
+				"platform_line_item__c"
+			],
+			[
+				"Platfor",
+				"platform_line_item__c"
+			],
+			[
+				"pricin",
+				"pricingScheduleLines"
+			],
+			[
+				"pro",
+				"Promotion__c"
+			],
+			[
+				"bran",
+				"Brands__c"
+			],
+			[
+				"Bran",
+				"Brands__c"
+			],
+			[
+				"sk",
+				"Sku__c"
+			],
+			[
+				"pr",
+				"Promotion__c"
+			],
+			[
+				"com",
+				"compactView"
+			],
+			[
+				"cop",
+				"compactView"
+			],
+			[
+				"filte",
+				"filterExp"
+			],
+			[
+				"Test",
+				"TestUtils"
+			],
+			[
+				"Deal",
+				"DealBuilderExt"
+			],
+			[
+				"fie",
+				"fieldset"
+			],
+			[
+				"return",
+				"returnObject"
+			],
+			[
+				"Flat",
+				"Flat_Fee_to_Display__c"
+			],
+			[
+				"target",
+				"targetType"
+			],
+			[
+				"SOb",
+				"SObject"
+			],
+			[
+				"inc",
+				"incomingFieldJsonObject"
+			],
+			[
+				"fieldma",
+				"fieldMapList"
+			],
+			[
+				"plat",
+				"Platform_Line_Item__c"
+			],
+			[
+				"to",
+				"toggleShowHide"
+			],
+			[
+				"In",
+				"Inventory_Type__c"
+			],
+			[
+				"Ser",
+				"Service_Type__c"
+			],
+			[
+				"lineItemFiel",
+				"lineItemFieldsetString"
+			],
+			[
+				"Rec",
+				"RecordTypeID"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"title",
+				"title-group"
+			],
+			[
+				"G",
+				"Group__c"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"added",
+				"addedIds"
+			],
+			[
+				"existing",
+				"existingIds"
+			],
+			[
+				"existin",
+				"existingIds"
+			],
+			[
+				"dropped",
+				"droppedOnObject"
+			],
+			[
+				"Applie",
+				"Applied_Component__c"
+			],
+			[
+				"mar",
+				"marginCollection"
+			],
+			[
+				"hid",
+				"hiddenfields"
+			],
+			[
+				"details",
+				"details_hidden"
+			],
+			[
+				"field",
+				"fieldPath"
+			],
+			[
+				"linI",
+				"lineItemFieldset"
+			],
+			[
+				"label",
+				"labelOverride"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 139.0,
+		"selected_items":
+		[
+			[
+				"apexte",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"apex tes",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"apex cla",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"apexcl",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"apexclass",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"githu privat",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"github privat",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"gist",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"depl",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"visual",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"deploy",
+				"MavensMate: Deploy To Server"
+			],
+			[
+				"deply",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"class",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"apexcla",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"compon",
+				"MavensMate: New Visualforce Component"
+			],
+			[
+				"resource",
+				"MavensMate: Create Resource Bundle"
+			],
+			[
+				"tests",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"apextests",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"test",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"apextest",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"apex",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"runap",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"page",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"trigger",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Depl",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"dep",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"dpel",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"depo",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"visu ",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"new apex",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"runtest",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"new apex ",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"depll",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"testss",
+				"Tag: Remove All Attributes From Tags in Selection"
+			],
+			[
+				"resor",
+				"MavensMate: Create Resource Bundle"
+			],
+			[
+				"visualforce",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"visualfor",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"apex ",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"resour",
+				"MavensMate: Create Resource Bundle"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"mini",
+				"Minify Javascript to file"
+			],
+			[
+				"min",
+				"Minify Javascript to file"
+			],
+			[
+				"minify",
+				"Minify Javascript to file"
+			],
+			[
+				"minif",
+				"Minify Javascript to file"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Add..."
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"deple",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"de",
+				"MavensMate: Deploy To Server"
+			],
+			[
+				"deplo",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"deplol",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"source",
+				"SourceTree: Open SourceTree"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"resour	",
+				"MavensMate: Create Resource Bundle"
+			],
+			[
+				"resoue",
+				"MavensMate: Create Resource Bundle"
+			],
+			[
+				"resourc",
+				"MavensMate: Create Resource Bundle"
+			],
+			[
+				"apextes",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"apex test",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"run tests",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"depol",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"visu",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"depk",
+				"Package Control: Disable Package"
+			],
+			[
+				"deol",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"deplou",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"indet",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"VISUA",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"deployu",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"ji",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"GIST",
+				"Gist: Create Private Gist"
+			],
+			[
+				"epl",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git gui",
+				"Git: Gui"
+			],
+			[
+				"visualf",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"vis",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"deo",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"snipp table",
+				"Snippet: Bootstrap tabbable navigation tabs"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"del",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"visualcom",
+				"MavensMate: New Visualforce Component"
+			],
+			[
+				"visualfor page",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"snippet dire",
+				"Snippet: directive"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"apexc",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"apex cl",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"visual page",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"visua",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"visualfopag",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"mavens new ape",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"DEPL",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Dep",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"deployl",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"detail",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ddepl",
+				"RubyMotionBuilder: Deploy"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"place",
+				"Package Control: Add Channel"
+			],
+			[
+				"deplo reso",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"package contro up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package control rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"deploy ",
+				"MavensMate: Deploy Resource Bundle"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 102.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kpoorman/Documents/mavensmate/Mulligan/src/classes/mulliganController.cls",
+		"/Users/kpoorman/Documents/mavensmate/Mulligan/src/components/mulliganBatchJobDisplay.component",
+		"/Users/kpoorman/Documents/mavensmate/Mulligan/src/classes/mulliganBatchJobs.cls",
+		"/Users/kpoorman/Documents/mavensmate/Mulligan/src/pages/Mulligan.page",
+		"/Users/kpoorman/Documents/mavensmate/Mulligan/src/classes/mulliganBatchRestore.cls",
+		"/Users/kpoorman/Documents/mavensmate/Mulligan/src/classes/mulliganBatchDelete.cls",
+		"/Users/kpoorman/Dropbox/Apps/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/src/pages/TurnTables.page",
+		"/Users/kpoorman/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/kpoorman/Dropbox/Apps/SublimeText/Packages/User/Preferences.sublime-settings",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/ng/controllers/turnTablesCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/ng/controllers/turntables.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/css/turntables.css",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/src/pages/selectReport.page",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/src/classes/ngForceController.cls",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/ng/app.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/src/components/ngforce.component",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/js/inspiritas.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/js/highcharts.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/ng/controllers/lineItemCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/js/rubyjs.min.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/js/angular.min.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/src/classes/TestUtils.cls",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/src/classes/ngForceController_Test.cls",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/resource-bundles/turntables.resource/TurnTables/ng/dealBuilder.js",
+		"/Users/kpoorman/Documents/mavensmate/TurnTables/TurnTables.sublime-project",
+		"/Users/kpoorman/src/chattermeup/config/environments/development.rb",
+		"/Users/kpoorman/.zshrc",
+		"/Users/kpoorman/src/chattermeup/db/migrate/20130630203403_add_devise_to_users.rb",
+		"/Users/kpoorman/src/chattermeup/db/migrate/20130630201727_add_devise_to_admin_users.rb",
+		"/Users/kpoorman/src/chattermeup/config/routes.rb",
+		"/Users/kpoorman/src/chattermeup/Gemfile",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/batchOppProductConversion.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/OppProductConversionUtils.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers/UpdateManagedPricingSchedule.trigger",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/lineItemCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/dragNdropCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/CalculateOpportunity1MonthFees.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers/RollupSummaryForLookups.trigger",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/Test_RollupSummaryForLookups.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/dealBuilder.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/TestCreateNewContactFromEmailCase.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/TestUtils.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/CalculateAmountOnOpportunity_TEST.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/RemoteTKController_TEST.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/DealBuilderExt.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/DealBuilderExt_TEST.cls",
+		"/Users/kpoorman/Desktop/deploy.tsv",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/RemoteTKController.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/ConnectToConsoleController.cls-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/Case_PreventDeletion.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/groupCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/cloneGroupCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/cloneGroupTmpl.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/TestingUtils.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/lineItemAdvancedController.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/lineItemTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/services/tk.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/addComponentTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/newLineItemTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/lineItemAdvancedTmpl.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/groupLevelComponentDirectiveTPL.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/componentContainerTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/directives/groupLevelComponents.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/rightSideCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/components/RemoteTK.component",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/config/.settings",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/GIDS_Extension.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/dealDetails.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/dealDetailsCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/GIDSRecord_Extension.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/groupDirectiveTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/platformLineItemTemplate.page-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/navModalCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers/CalculateAmountonOpportunity.trigger",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/adap Sandbox.sublime-project",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/libraryModalTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/groupLevelLibraryDetails.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/groupLevelLibraryDetailsCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/groupLevelComponentCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/libraryModalCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/directives/xeditable.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/appliedComponentCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/componentContainerCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/directives/groupLevelLineItemDetail.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/AppliedComponentsTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/services/apcurrency.js",
+		"/Users/kpoorman/Dropbox/Standups/6-17-13.txt",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/AdapApiResponse.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/AdapConsoleIntegration.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/RestClient.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/adapApiPushExt_TEST.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/adapApiPushExt.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/directives/group.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/js/select2.min.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/newPlatformLineItemModal.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/js/log.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/dealBuilder.page-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/lineItemTemplate.page-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/groupDetails.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/directives/groupDetails.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/services/percent.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/HomeCasesController.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/DealBuilderExt_TEST.cls-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/EchoSignFunctionalityTest.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/PricingScheduleUtils.cls",
+		"/Users/kpoorman/Dropbox/Apps/SublimeText/Packages/MavensMate/mavensmate.sublime-settings",
+		"/Users/kpoorman/Dropbox/Apps/SublimeText/Packages/User/mavensmate.sublime-settings",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/UpdateManagedPricingScheduleTrigger_TEST.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/priceScheduleCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/priceScheduleTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/resource-bundles/cs.resource/ng/controllers/platformLineItemCtrl.js",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/RestClientSuccess_TEST.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/platformLineItemTemplate.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/pages/DealBuilderPlatform.page",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/AdapConsoleIntegration_TEST.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/RestClientHTTPMocks.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/PublisherApplicationControllerTests.cls-meta.xml",
+		"/Users/kpoorman/Dropbox/Apps/SublimeText/Packages/User/Java.sublime-settings",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/RestClient_TEST.cls",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/UpdateNotificationContactTests.cls-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers/UpdateNotificationContact.trigger-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers/UpdateNotificationContact.trigger",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers/CalculateAmountonOpportunity.trigger-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/triggers/UpdateManagedPricingSchedule.trigger-meta.xml",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/UpdateNotificationContactTests.cls",
+		"/Users/kpoorman/Dropbox/Apps/SublimeText/Packages/Default/Preferences.sublime-settings",
+		"/Users/kpoorman/Documents/mavensmate/adap Sandbox/src/classes/AccountStatusChangeController.cls"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/adap Sandbox",
+			"<project>",
+			"*.js",
+			"/Users/kpoorman/Documents/mavensmate/AngularAdaptv/src/pages",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/AngularAdaptv",
+			"<project>",
+			"/Users/kpoorman/Documents/mavensmate/AngularAdaptv",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"sidebar",
+			"Museo ",
+			"font",
+			"LAB",
+			"view source\\t",
+			"\\t",
+			"update",
+			"Internal_CPM__c",
+			"date",
+			"clone",
+			"update",
+			"closeNewLine",
+			"closeNew",
+			"GIDS__c",
+			"FirstPrioritySelected",
+			"Type__c",
+			"Fee",
+			"closeOppHistory",
+			"groupLevelLibraryItemDetailsShouldBeOpen",
+			"$j.opp",
+			"update",
+			"input-mini",
+			"input-large",
+			"lineItem",
+			"}}<",
+			"{{cpiti.",
+			"dml_end",
+			"dml_begin",
+			", ",
+			"internal",
+			"log(",
+			"log",
+			"ConvertedToDealBuilder__c",
+			"query",
+			"endMonth",
+			"Adap_Console_ID__c",
+			"stats.oppTotal",
+			"Notification_Contact__C",
+			"updateTotal",
+			"endDate",
+			"Calculated_Impressions_Needed__c",
+			"Brands__c",
+			"vfRemote",
+			"cfRemote",
+			"btn-",
+			"}', ",
+			"{!$RemoteAction.",
+			"vfr.Client.",
+			".prototype.",
+			"remotetk",
+			"{!RecordType",
+			"\\t.*",
+			"*",
+			"unmanaged",
+			"log(",
+			"groupId",
+			"objId",
+			"$scope.psa",
+			"fieldMap",
+			"key",
+			"row",
+			"key",
+			"fieldmaplist",
+			"odd",
+			"pricingStruct",
+			"ng-show=",
+			"\"...\"(?)",
+			"\"...\"{1}",
+			"Line_Item__c",
+			"</option>",
+			"widemodal",
+			"getBoundingClientRect",
+			"popover",
+			"×",
+			"[0-9]",
+			"tool",
+			"tooltip",
+			"addedComponentContainer",
+			"oppTotal",
+			"resetSubtotal",
+			"lineItem.{{f.key}}",
+			"lineItemFieldset",
+			"describeFieldSet",
+			"getLineItmesForGroup",
+			"pluck",
+			"$scope.panes",
+			"newComponentShouldBeOpen",
+			"static content",
+			"panes",
+			"render",
+			"console.log",
+			"dr",
+			"fname",
+			"toUpdate",
+			"console.log",
+			"itemId",
+			"name__c",
+			"Adap.tv ",
+			"adap.tv",
+			"ng-controller=\"collapsable\"",
+			"componentContainerController",
+			"appliedControllerController",
+			"fields",
+			"ng-cloak",
+			"lineItemController",
+			"dataBus",
+			"ui.bootstrap.modal",
+			"modal",
+			"btn-success",
+			"btn	<apex:includeScript value=\"{!URLFOR($Resource.cs, '/ng/directives/lineItem.js')}\"/>\n	<apex:includeScript value=\"{!URLFOR($Resource.cs, '/ng/directives/lineItem.js')}\"/>\n	<apex:includeScript value=\"{!URLFOR($Resource.cs, '/ng/directives/lineItem.js')}\"/>\n.btn",
+			"btn	<apex:includeScript value=\"{!URLFOR($Resource.cs, '/ng/directives/lineItem.js')}\"/>\n	<apex:includeScript value=\"{!URLFOR($Resource.cs, '/ng/directives/lineItem.js')}\"/>\n	<apex:includeScript value=\"{!URLFOR($Resource.cs, '/ng/directives/lineItem.js')}\"/>\n",
+			"bs-btn",
+			"\"",
+			"remotetk.Client.prototype",
+			"flight",
+			"-flight",
+			"dealbuilder",
+			".btn-mini",
+			".btn",
+			"logger.",
+			"Log.Instance",
+			"^def .*checkout_project",
+			"checkout_project",
+			"logger",
+			"getFullFlightDetails",
+			"\nvoid",
+			"void"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"",
+			"\\t\\t\\t\\t",
+			"input-small",
+			"input-mini",
+			"\" class=\"input-large\"/><",
+			"<input id=\"textinput\" name=\"textinput\" type=\"text\" ng-model=\"cpiti.",
+			" == null ||",
+			" != null &&",
+			"!= null &&",
+			"start",
+			"PublisherId__c",
+			"fEndDate",
+			"Impressions__c",
+			"Brand__c",
+			"vfr",
+			"label-",
+			"', ",
+			"",
+			"vfr.",
+			".",
+			"vfr",
+			"",
+			"AccountId",
+			"groupId",
+			"current",
+			"property",
+			"key",
+			"row",
+			"incomingFieldJsonObject",
+			"left",
+			"ui-if=",
+			"label: $1",
+			"PlatformLineItem__c",
+			"",
+			"odd.namespacedKey",
+			"lineItemFieldsetString",
+			"//console.log",
+			"describeResult",
+			"fieldToUpdate",
+			"objectToUpdate",
+			"ObjectToUpdate",
+			"//console.log",
+			"containerId",
+			"Adap.tv",
+			"newLineItemFields",
+			"newGroupFields",
+			"btn",
+			"",
+			"this",
+			"group",
+			"-group",
+			"dealBuilder",
+			".bs-btn-mini",
+			".bs-btn",
+			"rightField",
+			"leftFieldName",
+			".api_name",
+			"[leftFieldName]",
+			"[leftField]",
+			"leftField.",
+			"[left]",
+			"left.",
+			"placement__c",
+			"btn",
+			"AppliedFLStrategy__c",
+			"AppliedStrategy__c",
+			"fls.",
+			"obj.",
+			"bs-btn",
+			"addObjAndReturnDetails",
+			"(id incomingId)",
+			"html();",
+			"setDropZones",
+			"",
+			"http://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/decrypted.png",
+			"2013,1,28,11,15",
+			"2013,1,28,11,10",
+			"data",
+			"@data",
+			"\" =>",
+			",\\n",
+			"\\n",
+			"",
+			"\"nil\"",
+			", \\n",
+			"380px",
+			"width:380px",
+			"",
+			">\\n<",
+			"ClientOrgRegistrationExt",
+			"baseUrl",
+			"sidebar_css",
+			"csSidebar",
+			"\\n17:04",
+			"\\n17:02",
+			"\\n16:12",
+			"\\n15:32",
+			"\\n15:28",
+			"\\n15:02",
+			"\\n14:59",
+			"\\n14:53",
+			"\\n14:51",
+			"\\n14:46",
+			"\\n14:43",
+			"\"detailRow\"",
+			"detailRow[",
+			"detailRow",
+			"\"detailColumn\"",
+			"detailColumn.",
+			"",
+			"inputField",
+			"ctlExt",
+			"AgencyGridTemplateBuilderExtension",
+			"ListToSort",
+			"SelectOptionListSort",
+			"20120913",
+			"QuoteExcelExtension_Old",
+			"",
+			", 'a1eW00000000O0a'",
+			"",
+			"\\n",
+			"s67",
+			"s68",
+			"T13:50:03.323",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 130.0
+	},
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 130.0
+	},
+	"project": "Mulligan.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lineitem",
+				"resource-bundles/cs.resource/ng/controllers/lineItemCtrl.js"
+			],
+			[
+				"opp",
+				"src/classes/OppProductConversionUtils.cls"
+			],
+			[
+				"batch",
+				"src/classes/batchOppProductConversion.cls"
+			],
+			[
+				"lineitemc",
+				"resource-bundles/cs.resource/ng/controllers/lineItemCtrl.js"
+			],
+			[
+				"updateprin",
+				"src/triggers/UpdateManagedPricingSchedule.trigger"
+			],
+			[
+				"bat",
+				"src/classes/batchOppProductConversion.cls"
+			],
+			[
+				"oppco",
+				"src/classes/OppProductConversionUtils.cls"
+			],
+			[
+				"testcreate",
+				"src/classes/TestCreateNewContactFromEmailCase.cls"
+			],
+			[
+				"dealbuild",
+				"src/pages/dealBuilder.page"
+			],
+			[
+				"group",
+				"resource-bundles/cs.resource/ng/controllers/groupCtrl.js"
+			],
+			[
+				"clonegroup",
+				"resource-bundles/cs.resource/ng/controllers/cloneGroupCtrl.js"
+			],
+			[
+				"clone",
+				"src/pages/cloneGroupTmpl.page"
+			],
+			[
+				"dealbuildere",
+				"src/classes/DealBuilderExt.cls"
+			],
+			[
+				"remotetk",
+				"src/classes/RemoteTKController.cls"
+			],
+			[
+				"dealbuilder",
+				"src/classes/DealBuilderExt_TEST.cls"
+			],
+			[
+				"roll",
+				"src/triggers/RollupSummaryForLookups.trigger"
+			],
+			[
+				"advanced",
+				"resource-bundles/cs.resource/ng/controllers/lineItemAdvancedController.js"
+			],
+			[
+				"lineitemctr",
+				"resource-bundles/cs.resource/ng/controllers/lineItemCtrl.js"
+			],
+			[
+				"addcom",
+				"src/pages/addComponentTemplate.page"
+			],
+			[
+				"dealbuilderext",
+				"src/classes/DealBuilderExt.cls"
+			],
+			[
+				"advancedcon",
+				"resource-bundles/cs.resource/ng/controllers/lineItemAdvancedController.js"
+			],
+			[
+				"newline",
+				"src/pages/newLineItemTemplate.page"
+			],
+			[
+				"deal",
+				"src/pages/dealBuilder.page"
+			],
+			[
+				"drag",
+				"resource-bundles/cs.resource/ng/controllers/dragNdropCtrl.js"
+			],
+			[
+				"dealbui",
+				"src/pages/dealBuilder.page"
+			],
+			[
+				"dealbuil",
+				"src/classes/DealBuilderExt.cls"
+			],
+			[
+				"compone",
+				"src/pages/componentContainerTemplate.page"
+			],
+			[
+				"grouplevel",
+				"src/pages/groupLevelComponentDirectiveTPL.page"
+			],
+			[
+				"updatemanaged",
+				"src/triggers/UpdateManagedPricingSchedule.trigger"
+			],
+			[
+				"remote",
+				"src/components/RemoteTK.component"
+			],
+			[
+				"right",
+				"resource-bundles/cs.resource/ng/controllers/rightSideCtrl.js"
+			],
+			[
+				"lineite",
+				"src/pages/lineItemTemplate.page"
+			],
+			[
+				"dealdet",
+				"src/pages/dealDetails.page"
+			],
+			[
+				"dealbuilderex",
+				"src/classes/DealBuilderExt.cls"
+			],
+			[
+				"convert",
+				"src/classes/OppProductConversionUtils.cls"
+			],
+			[
+				"gidsex",
+				"src/classes/GIDS_Extension.cls"
+			],
+			[
+				"gids_e",
+				"src/classes/GIDS_Extension.cls"
+			],
+			[
+				"grouptem",
+				"src/pages/groupDirectiveTemplate.page"
+			],
+			[
+				"lineitemtemp",
+				"src/pages/lineItemTemplate.page"
+			],
+			[
+				"lineitemte",
+				"src/pages/platformLineItemTemplate.page-meta.xml"
+			],
+			[
+				"lineitemadvan",
+				"src/pages/lineItemAdvancedTmpl.page"
+			],
+			[
+				"librar",
+				"src/pages/libraryModalTemplate.page"
+			],
+			[
+				"grouptemp",
+				"src/pages/groupDirectiveTemplate.page"
+			],
+			[
+				"triggeramoun",
+				"src/triggers/CalculateAmountonOpportunity.trigger"
+			],
+			[
+				"component",
+				"src/pages/componentContainerTemplate.page"
+			],
+			[
+				"grouplevellib",
+				"src/pages/groupLevelLibraryDetails.page"
+			],
+			[
+				"library",
+				"src/pages/libraryModalTemplate.page"
+			],
+			[
+				"grouplevellibr",
+				"src/pages/groupLevelLibraryDetails.page"
+			],
+			[
+				"dea",
+				"src/pages/dealBuilder.page"
+			],
+			[
+				"rem",
+				"src/classes/RemoteTKController.cls"
+			],
+			[
+				"tk",
+				"resource-bundles/cs.resource/ng/services/tk.js"
+			],
+			[
+				"x",
+				"resource-bundles/cs.resource/ng/directives/xeditable.js"
+			],
+			[
+				"lineitemct",
+				"resource-bundles/cs.resource/ng/controllers/lineItemCtrl.js"
+			],
+			[
+				"componentcontainertemplat",
+				"src/pages/componentContainerTemplate.page"
+			],
+			[
+				"xedit",
+				"resource-bundles/cs.resource/ng/directives/xeditable.js"
+			],
+			[
+				"applied",
+				"resource-bundles/cs.resource/ng/controllers/appliedComponentCtrl.js"
+			],
+			[
+				"groupc",
+				"resource-bundles/cs.resource/ng/controllers/groupCtrl.js"
+			],
+			[
+				"grouplevelcompon",
+				"src/pages/groupLevelComponentDirectiveTPL.page"
+			],
+			[
+				"componentconta",
+				"src/pages/componentContainerTemplate.page"
+			],
+			[
+				"grouplevelcomp",
+				"resource-bundles/cs.resource/ng/controllers/groupLevelComponentCtrl.js"
+			],
+			[
+				"grouplevelcom",
+				"resource-bundles/cs.resource/ng/directives/groupLevelComponents.js"
+			],
+			[
+				"grouplevelcomponentdire",
+				"src/pages/groupLevelComponentDirectiveTPL.page"
+			],
+			[
+				"appliedcomponet",
+				"resource-bundles/cs.resource/ng/controllers/appliedComponentCtrl.js"
+			],
+			[
+				"componentcontainer",
+				"resource-bundles/cs.resource/ng/controllers/componentContainerCtrl.js"
+			],
+			[
+				"componentcontainertemplate",
+				"src/pages/componentContainerTemplate.page"
+			],
+			[
+				"groupctrl",
+				"resource-bundles/cs.resource/ng/controllers/groupCtrl.js"
+			],
+			[
+				"ui",
+				"src/classes/UiObjectTree.cls"
+			],
+			[
+				"config/dep",
+				"config/deploy.rb"
+			],
+			[
+				"cap",
+				"Capfile"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"fuel_surcharge_hel",
+				"app/helpers/fuel_surcharges_helper.rb"
+			],
+			[
+				"",
+				"config/objects/Account.object"
+			],
+			[
+				"cco_",
+				"src/classes/ccoAPIProxyClass_20120913.cls"
+			],
+			[
+				"templatedout",
+				"src/pages/TemplatedQuoteExcelOutput.page"
+			],
+			[
+				"testagencygridtempl",
+				"src/classes/TestAgencyGridTemplateBuilderExtension.cls"
+			],
+			[
+				"agencygridtemplbuildtest",
+				"src/classes/AgencyGridTemplateBuilderControllerTest.cls"
+			],
+			[
+				"agencygridtemplatebuilderext",
+				"src/classes/AgencyGridTemplateBuilderExtension.cls"
+			],
+			[
+				"templated",
+				"src/pages/TemplatedQuoteExcelOutput.page"
+			],
+			[
+				"agencygridutil",
+				"src/classes/AgencyGridUtil.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

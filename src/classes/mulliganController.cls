@@ -60,9 +60,12 @@ Public with sharing class mulliganController {
 		
 		for(Schema.SObjectType f : gd.Values()){
 			if(f.getDescribe().isUndeletable()){
+				if(f.getDescribe().getLabel() == 'Mulligan Control') {continue;}
 				options.add(new SelectOption(f.getDescribe().getLocalName().toLowerCase() , f.getDescribe().getLabel()));
 			}
 		}
+		options.sort();
+		options.add(0, new SelectOption('0','Select object to undelete'));
 		return options;
 	}
 
