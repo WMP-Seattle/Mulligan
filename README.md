@@ -27,7 +27,7 @@ Limitations, Caveats and other things.
 
 1. So, yeah. Mulligan can only undelete objects that are in the recycle bin. If you have emptied the recycle bin, or exceeded the retention limit... your only option is to rick-roll your entire org and weep.
 2. There is no warranty, expressed or otherwise associated with this software.
-3. If you have an enhancement, or bug fix, feel free to send a pull request. Please include coresponding tests.
+3. If you have an enhancement, or bug fix, feel free to send a pull request. Please include corresponding tests.
 
 Installation Instructions.
 ========
